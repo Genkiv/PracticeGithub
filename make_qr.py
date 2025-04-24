@@ -25,3 +25,6 @@ if __name__ == "__main__":
     output = args[1]
     app = MakeQR(output)
     app.run()
+
+print('crate new branch')
+print('lesson pull request')
